@@ -24,4 +24,4 @@ various commands using a web project.
 Please fork this repository and then issues Pull
 
 ### Copyright
-2020 GitHub Training
+2020 GitHub Training. All rights reserved
