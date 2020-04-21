@@ -1,2 +1,4 @@
 file for git stash
-Git2 
+Git2
+
+Add more txt
